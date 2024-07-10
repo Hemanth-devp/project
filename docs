@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 create database students
 create table details
 insert data in details
+=======
+create database
+create table
+>>>>>>> parent of 28568b5 (first commit)
